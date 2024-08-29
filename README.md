@@ -16,8 +16,13 @@ I'm a Gabonese developer who kinda love developping, ✨creating and learning ne
 
 <h1 align="center">My competencies</h1>
 <p align="center" style="width:10vw;">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,python,php,symfony,angular,spring,flutter" style="max-width: 50px; height: auto;" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,php,mysql" style="max-width: 50px; height: auto;" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,tailwind,figma,illustrator,photoshop,bootstrap,css,html" style="max-width: 50px; height: auto;" />
+  <img src="https://skillicons.dev/icons?i=spring,angular,flutter,symfony,tailwind,bootstrap" style="max-width: 50px; height: auto;" />
+</p>
+
+<h1 align="center">Others</h1>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,illustrator,photoshop" style="max-width: 50px; height: auto;" />
 </p>
