@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi guys and girls 👋
 
-<!--
-**kephrr/kephrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Gabonese developer who kinda love developping, ✨creating and learning new stuff.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a project who stand in the battle against the corruption in Senegal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on valuable projects on a knowledge aspect
+
+- 📫 How to reach me: kephren-emmanuel.evoung@ism.edu.sn
+
+- 😄 Pronouns: He/Him
+  
+⚡ Fun fact: Basket-Baller. Golden State Warrior Fan.
+
+
+
+<h1 align="center">My competencies</h1>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,java,python,php" style="max-width: 50px; height: auto;" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=symfony,angular,spring,flutter" style="max-width: 50px; height: auto;" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,tailwind,figma,illustrator" style="max-width: 50px; height: auto;" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=photoshop,bootstrap,css,html" style="max-width: 50px; height: auto;" />
+</p>
